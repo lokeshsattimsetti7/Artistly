@@ -1,0 +1,728 @@
+[
+  {
+    "name": "Krishna Reddy",
+    "bio": "Krishna Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Krishna_Reddy.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ayaan Nair",
+    "bio": "Ayaan Nair is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Hindi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Nair.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Reyansh Mishra",
+    "bio": "Reyansh Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Mishra.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Reyansh Mishra",
+    "bio": "Reyansh Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Reyansh_Mishra.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Aarav Chopra",
+    "bio": "Aarav Chopra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Chopra.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Aditya Nair",
+    "bio": "Aditya Nair is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Nair.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Patel",
+    "bio": "Reyansh Patel is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Patel.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil",
+      "Marathi",
+      "Hindi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Sharma.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Krishna Reddy",
+    "bio": "Krishna Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Reddy.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vivaan Kumar",
+    "bio": "Vivaan Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Kannada",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Kumar.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Sai Das",
+    "bio": "Sai Das is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Sai_Das.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Krishna Joshi",
+    "bio": "Krishna Joshi is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Krishna_Joshi.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Aarav Joshi",
+    "bio": "Aarav Joshi is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Aarav_Joshi.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Vihaan Kumar",
+    "bio": "Vihaan Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Kumar.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ayaan Verma",
+    "bio": "Ayaan Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Verma.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Aarav Reddy",
+    "bio": "Aarav Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Aarav_Reddy.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Vihaan Mishra",
+    "bio": "Vihaan Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Punjabi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vihaan_Mishra.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Arjun Verma",
+    "bio": "Arjun Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Verma.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Vivaan Joshi",
+    "bio": "Vivaan Joshi is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vivaan_Joshi.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ayaan Das",
+    "bio": "Ayaan Das is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Das.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Aarav Sharma",
+    "bio": "Aarav Sharma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Sharma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Vihaan Verma",
+    "bio": "Vihaan Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vihaan_Verma.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Chopra",
+    "bio": "Reyansh Chopra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Chopra.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Aarav Kumar",
+    "bio": "Aarav Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Kumar.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vihaan Kumar",
+    "bio": "Vihaan Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "English",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vihaan_Kumar.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vivaan Chopra",
+    "bio": "Vivaan Chopra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi",
+      "English",
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vivaan_Chopra.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Vihaan Das",
+    "bio": "Vihaan Das is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "English",
+      "Telugu",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Das.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aditya Chopra",
+    "bio": "Aditya Chopra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Kannada",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Chopra.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Krishna Patel",
+    "bio": "Krishna Patel is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Krishna_Patel.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Sai Verma",
+    "bio": "Sai Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Sai_Verma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Vivaan Verma",
+    "bio": "Vivaan Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Verma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Sai Nair",
+    "bio": "Sai Nair is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Punjabi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Sai_Nair.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Aarav Kumar",
+    "bio": "Aarav Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Kumar.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vihaan Patel",
+    "bio": "Vihaan Patel is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Patel.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Arjun Kumar",
+    "bio": "Arjun Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "Hindi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Kumar.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Reyansh Mishra",
+    "bio": "Reyansh Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Mishra.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Krishna Kumar",
+    "bio": "Krishna Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Kannada",
+      "Marathi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Kumar.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vivaan Verma",
+    "bio": "Vivaan Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vivaan_Verma.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Sai Kumar",
+    "bio": "Sai Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Tamil",
+      "English",
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Sai_Kumar.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Aarav Mishra",
+    "bio": "Aarav Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "English",
+      "Punjabi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Mishra.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Ishaan Chopra",
+    "bio": "Ishaan Chopra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ishaan_Chopra.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Ayaan Verma",
+    "bio": "Ayaan Verma is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "/",
+    "location": "Chennai"
+  },
+  {
+    "name": "Vihaan Kumar",
+    "bio": "Vihaan Kumar is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Kumar.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Krishna Patel",
+    "bio": "Krishna Patel is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Patel.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Aditya Joshi",
+    "bio": "Aditya Joshi is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Joshi.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Arjun Reddy",
+    "bio": "Arjun Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Reddy.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Sai Reddy",
+    "bio": "Sai Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Sai_Reddy.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Mishra",
+    "bio": "Reyansh Mishra is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Mishra.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Vivaan Nair",
+    "bio": "Vivaan Nair is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Kannada",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Nair.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced dj with years of performances.",
+    "categories": [
+      "DJ"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "English",
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vivaan_Reddy.jpg",
+    "location": "Bengaluru"
+  }
+]

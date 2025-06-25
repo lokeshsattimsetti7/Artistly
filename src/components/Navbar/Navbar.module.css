@@ -1,0 +1,221 @@
+.MainSection {
+    display: flex;
+    align-items: center;
+    padding: 14px 75px 10px 75px;
+    justify-content: space-between;
+    background-color: #000000;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    background: transparent;
+}
+
+.SectionOne {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.SectionOne img {
+    width: 50px;
+    height: 50px;
+}
+
+.LogoText {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 28px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+}
+
+
+
+.SectionTwo ul {
+    color: #FFFFFF;
+    display: flex;
+    gap: 40px;
+
+}
+
+.SectionTwo ul li a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.SectionTwo ul li a:hover {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.SectionTwo ul li {
+    font-size: 20px;
+    list-style: none;
+    font-family: 'LEMON MILK', sans-serif;
+    text-decoration: none;
+    line-height: 118.5%;
+    letter-spacing: 0%;
+
+}
+
+
+
+.SectionThree button {
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    width: 220px;
+    height: 50px;
+    font-family: 'LEMON MILK',
+        sans-serif;
+    border: 1px solid #FFFFFF;
+    letter-spacing: 0%;
+    background-color: transparent;
+    border-radius: 30px;
+    line-height: 150%;
+    margin-left: 15px;
+}
+
+.SectionThree button:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+    cursor: pointer;
+}
+
+.Hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 200;
+}
+
+.Bar {
+    width: 24px;
+    height: 2px;
+    background-color: white;
+    transition: 0.3s ease;
+}
+
+.Bar1Open {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.Bar2Open {
+    opacity: 0;
+}
+
+.Bar3Open {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+
+
+
+
+@media (min-width: 320px) and (max-width:600px) {
+    .SectionTwo {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: rgba(0, 0, 0, 0.85);
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+        padding: 1.5rem 0;
+        max-height: 0;
+        overflow: hidden;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .SectionTwo.Open {
+        max-height: 300px;
+        opacity: 1;
+        visibility: visible;
+        animation: fadeSlideDown 0.3s ease forwards;
+    }
+
+    .SectionTwo ul {
+        flex-direction: column;
+        gap: 1.2rem;
+    }
+
+    .SectionThree {
+        display: none;
+    }
+
+    .Hamburger {
+        display: flex;
+    }
+}
+
+@keyframes fadeSlideDown {
+    0% {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@media (min-width: 601px) and (max-width:900px) {
+    .MainSection {
+        padding: 14px 10px 10px 10px;
+    }
+
+    .SectionTwo ul {
+        gap: 10px;
+
+    }
+
+    .SectionOne img {
+        display: none;
+    }
+
+    .SectionTwo ul li {
+        font-size: 14px;
+    }
+
+    .SectionThree button {
+        width: 120px;
+        height: 30px;
+        margin-left: 5px;
+        font-size: 8px;
+    }
+
+}
+
+@media (min-width: 901px) and (max-width:1200px) {
+    .MainSection {
+        padding: 14px 20px 10px 20px;
+    }
+
+    .SectionTwo ul {
+        gap: 20px;
+
+    }
+
+    .SectionTwo ul li {
+        font-size: 15px;
+    }
+
+    .SectionThree button {
+        width: 120px;
+        height: 30px;
+        margin-left: 5px;
+        font-size: 8px;
+    }
+
+}

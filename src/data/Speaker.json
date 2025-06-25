@@ -1,0 +1,727 @@
+[
+  {
+    "name": "Ishaan Patel",
+    "bio": "Ishaan Patel is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+      "profileImage":"/Assets/Speakers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Chopra",
+    "bio": "Vihaan Chopra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vihaan_Chopra.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ishaan Mishra",
+    "bio": "Ishaan Mishra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Tamil",
+      "Kannada",
+      "Marathi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Ishaan_Mishra.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Telugu",
+      "Marathi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Sharma.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Arjun Das",
+    "bio": "Arjun Das is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Das.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Kumar.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Aditya Chopra",
+    "bio": "Aditya Chopra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Marathi",
+      "English"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Chopra.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Nair",
+    "bio": "Reyansh Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Nair.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Sai Kumar",
+    "bio": "Sai Kumar is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Sai_Kumar.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Aditya Reddy",
+    "bio": "Aditya Reddy is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "English"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Reddy.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Krishna_Sharma.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Telugu",
+      "English"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Verma.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Patel",
+    "bio": "Aarav Patel is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "English"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Patel.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ayaan Sharma",
+    "bio": "Ayaan Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Sharma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Aditya Joshi",
+    "bio": "Aditya Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Joshi.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vihaan Chopra",
+    "bio": "Vihaan Chopra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Vihaan_Chopra.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Ayaan Mishra",
+    "bio": "Ayaan Mishra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Mishra.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ayaan Joshi",
+    "bio": "Ayaan Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Joshi.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Ayaan Reddy",
+    "bio": "Ayaan Reddy is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Ayaan_Reddy.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Nair",
+    "bio": "Vihaan Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Nair.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Kannada",
+      "Hindi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Verma.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Ishaan Reddy",
+    "bio": "Ishaan Reddy is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "English",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ishaan_Reddy.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Arjun Nair",
+    "bio": "Arjun Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Nair.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Vivaan Das",
+    "bio": "Vivaan Das is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Punjabi",
+      "Hindi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Das.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Sai Nair",
+    "bio": "Sai Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Sai_Nair.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Arjun Das",
+    "bio": "Arjun Das is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Das.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ishaan Das",
+    "bio": "Ishaan Das is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ishaan_Das.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Krishna Chopra",
+    "bio": "Krishna Chopra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "English",
+      "Punjabi",
+      "Marathi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Chopra.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Krishna Joshi",
+    "bio": "Krishna Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Joshi.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Punjabi",
+      "Hindi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vivaan Nair",
+    "bio": "Vivaan Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Nair.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Reddy.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vihaan Verma",
+    "bio": "Vihaan Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Verma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Verma",
+    "bio": "Krishna Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Krishna_Verma.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Arjun Das",
+    "bio": "Arjun Das is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Arjun_Das.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Sai Patel",
+    "bio": "Sai Patel is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Sai_Patel.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Sai Sharma",
+    "bio": "Sai Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Telugu",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Sai_Sharma.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Vihaan Sharma",
+    "bio": "Vihaan Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Hindi",
+      "Punjabi",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Sharma.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Reyansh Joshi",
+    "bio": "Reyansh Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Reyansh_Joshi.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Ayaan Mishra",
+    "bio": "Ayaan Mishra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ayaan_Mishra.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vivaan Nair",
+    "bio": "Vivaan Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "English"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Nair.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Telugu",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aarav_Verma.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Aditya Joshi",
+    "bio": "Aditya Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Kannada",
+      "Hindi",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Joshi.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Arjun Sharma",
+    "bio": "Arjun Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Arjun_Sharma.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Hindi",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Vihaan_Reddy.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Sai Nair",
+    "bio": "Sai Nair is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Punjabi",
+      "Marathi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage": "https://example.com/profile_images/Sai_Nair.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Vivaan Sharma",
+    "bio": "Vivaan Sharma is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage": "https://example.com/profile_images/Vivaan_Sharma.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage": "https://example.com/profile_images/Ishaan_Joshi.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ishaan Chopra",
+    "bio": "Ishaan Chopra is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Ishaan_Chopra.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Aditya Patel",
+    "bio": "Aditya Patel is a passionate and experienced speaker with years of performances.",
+    "categories": [
+      "Speaker"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Kannada",
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage": "https://example.com/profile_images/Aditya_Patel.jpg",
+    "location": "Delhi"
+  }
+]

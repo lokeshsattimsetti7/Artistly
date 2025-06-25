@@ -1,0 +1,287 @@
+.MainSection {
+    padding: 20px 50px 100px;
+    overflow: hidden;
+    position: relative;
+    background-color: #0F111B;
+}
+
+.Heading {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 70px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+    background-color: #0F111B;
+    margin-left: 30%;
+    font-style: oblique;
+    margin-bottom: 30px;
+
+}
+
+.Heading span {
+    font-family: 'LEMON MILK', sans-serif;
+    text-align: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 35.74px;
+    line-height: 130%;
+    letter-spacing: 0%;
+}
+
+.SubHeading {
+    font-family: 'LEMON MILK', sans-serif;
+    text-align: left;
+    font-weight: 400;
+    size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    align-items: center;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+
+.Carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    gap: 1rem;
+    padding-bottom: 30px;
+    overflow: hidden;
+}
+
+.Card {
+    position: relative;
+    min-width: 1000px;
+    max-width: 1200px;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.Image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.Label {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.3rem 0.7rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 1rem;
+    z-index: 2;
+}
+
+.Overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+    color: white;
+    z-index: 2;
+}
+
+.OverlayHeading {
+    font-family: 'LEMON MILK', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.OverlayDescription {
+    font-family: 'LEMON MILK', sans-serif;
+    text-align: left;
+    font-weight: 400;
+    size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.Label {
+    font-family: 'LEMON MILK', sans-serif;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    background: none;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+
+.Controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.Controls button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+    transition: color 0.3s ease;
+    background-color: #FFFFFF;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.button {
+    background: #000;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.Dots {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.Dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 999px;
+    background: #ccc;
+    cursor: pointer;
+}
+
+.ActiveDot {
+    background: #ff00f2;
+}
+
+.ActiveCard {
+    transform: scale(1);
+}
+
+.SideCard {
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.HiddenCard {
+    transform: scale(0.8);
+    opacity: 0.3;
+}
+
+@media (min-width: 320px) and (max-width:600px) {
+    .MainSection {
+        padding: 20px 10px 50px;
+    }
+
+    .Heading {
+        font-size: 40px;
+        margin-left: 10%;
+        margin-bottom: 0px;
+    }
+
+    .Heading span {
+        font-size: 20px;
+    }
+
+    .SubHeading {
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
+
+    .Carousel {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .Card {
+        min-width: 300px;
+        max-width: 400px;
+    }
+
+    .OverlayHeading {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .OverlayDescription {
+        size: 7px;
+    }
+
+    .Label {
+        font-size: 24px;
+    }
+
+    .Controls button {
+        font-size: 24px;
+        border-radius: 80px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 601px) and (max-width:900px) {
+    .MainSection {
+        padding: 20px 10px 50px;
+    }
+
+    .Heading {
+        font-size: 40px;
+        margin-left: 10%;
+        margin-bottom: 0px;
+    }
+
+    .Heading span {
+        font-size: 20px;
+    }
+
+    .SubHeading {
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
+
+    .Carousel {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .Card {
+        min-width: 300px;
+        max-width: 400px;
+    }
+
+    .OverlayHeading {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .OverlayDescription {
+        size: 7px;
+    }
+
+    .Label {
+        font-size: 24px;
+    }
+
+    .Controls button {
+        font-size: 24px;
+        border-radius: 80px;
+        padding: 10px;
+    }
+}

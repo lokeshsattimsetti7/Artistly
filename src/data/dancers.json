@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ishaan Chopra",
+    "bio": "Ishaan Chopra is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Ayaan Chopra",
+    "bio": "Ayaan Chopra is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "English"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+   "profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Sai Verma",
+    "bio": "Sai Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vihaan Sharma",
+    "bio": "Vihaan Sharma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Tamil",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+   "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vivaan Nair",
+    "bio": "Vivaan Nair is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada"
+    ],
+    "feeRange": "\u20b950,000+",
+   "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Sai Patel",
+    "bio": "Sai Patel is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Punjabi",
+      "English"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+   "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Krishna Patel",
+    "bio": "Krishna Patel is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Marathi",
+      "Tamil",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+   "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Reyansh Reddy",
+    "bio": "Reyansh Reddy is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+  "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Sai Nair",
+    "bio": "Sai Nair is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Hindi",
+      "English",
+      "Telugu"
+    ],
+    "feeRange": "\u20b950,000+",
+ "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Joshi",
+    "bio": "Krishna Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Marathi"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Arjun Verma",
+    "bio": "Arjun Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+   "profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Krishna Joshi",
+    "bio": "Krishna Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b950,000+",
+  "profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+  "profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Vihaan Nair",
+    "bio": "Vihaan Nair is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Sai Verma",
+    "bio": "Sai Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+   "profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Aarav Das",
+    "bio": "Aarav Das is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Punjabi",
+      "Hindi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Kolkata"
+  },
+  {
+    "name": "Krishna Patel",
+    "bio": "Krishna Patel is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Joshi",
+    "bio": "Reyansh Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Kannada",
+      "Telugu",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Vihaan Verma",
+    "bio": "Vihaan Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Delhi"
+  },
+ 
+  {
+    "name": "Reyansh Das",
+    "bio": "Reyansh Das is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "English",
+      "Hindi"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Marathi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Pune"
+  },
+   {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+   {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+   {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+   {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  },
+   {
+    "name": "Ishaan Joshi",
+    "bio": "Ishaan Joshi is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+"profileImage":"/Assets/Dancers/Dancer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Reyansh Kumar",
+    "bio": "Reyansh Kumar is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+"profileImage":"/Assets/Dancers/Dancer2.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Verma",
+    "bio": "Reyansh Verma is a passionate and experienced dancer with years of performances.",
+    "categories": [
+      "Dancer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+"profileImage":"/Assets/Dancers/Dancer3.jpg",
+    "location": "Ahmedabad"
+  }
+]

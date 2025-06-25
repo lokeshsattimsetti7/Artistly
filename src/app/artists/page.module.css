@@ -1,0 +1,65 @@
+.MainSection {
+    padding: 50px 0px 0px;
+    background-color: #0F111B;
+
+}
+
+.Heading {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+    text-align: center;
+    margin-top: 70px;
+    font-style: oblique;
+}
+
+.SubHeading {
+    font-size: 20px;
+    list-style: none;
+    font-family: 'LEMON MILK', sans-serif;
+    text-decoration: none;
+    line-height: 118.5%;
+    letter-spacing: 0%;
+    color: #ffff;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.ArtistCardContainer {
+    height: 100%;
+}
+
+
+
+.NoArtists {
+    text-align: center;
+    color: gray;
+    font-size: 10px;
+}
+
+.ArtistGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+@media (min-width: 901px) and (max-width:1200px) {
+    .ArtistGrid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 601px) and (max-width:900px) {
+    .ArtistGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 320px) and (max-width:600px) {
+    .ArtistGrid {
+        grid-template-columns: 1fr;
+    }
+}

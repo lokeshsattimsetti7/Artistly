@@ -1,0 +1,208 @@
+.MainSection {
+    padding: 100px 50px 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Heading {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 70px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+    background-color: #0F111B;
+    font-style: oblique;
+    margin-bottom: 30px;
+
+}
+
+.MainSection button {
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    width: 220px;
+    height: 50px;
+    font-family: 'LEMON MILK',
+        sans-serif;
+    border: 1px solid #FFFFFF;
+    letter-spacing: 0%;
+    background-color: transparent;
+    border-radius: 30px;
+    line-height: 150%;
+}
+
+.QuoteList {
+    display: flex;
+    flex-direction: column;
+    gap: 30px
+}
+
+.MainSection P1 {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 70px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+    background-color: #0F111B;
+    font-style: oblique;
+    margin-bottom: 30px;
+
+}
+
+.MainSection h3 {
+    font-family: 'LEMON MILK', sans-serif;
+    text-align: left;
+    font-weight: 600;
+    font-style: oblique;
+    font-size: 25.74px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.MainSection span {
+    background: linear-gradient(to right, #DF1CFF, #EA0070, #EA0070);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'LEMON MILK', sans-serif;
+    line-height: 118.5%;
+}
+
+.MainSection p {
+    font-family: 'LEMON MILK', sans-serif;
+    text-align: left;
+    font-weight: 400;
+    size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+@media (min-width: 320px) and (max-width:600px) {
+    .MainSection {
+        padding: 104px 20px 10px 20px;
+    }
+
+    .Header {
+        align-items: center;
+        text-align: center;
+    }
+
+    .Heading {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection button {
+        width: 180px;
+        height: 40px;
+    }
+
+    .QuoteList {
+        gap: 20px;
+    }
+
+    .MainSection P1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection h3 {
+        font-size: 18px;
+    }
+
+    .MainSection span {
+        font-size: 12px;
+    }
+}
+
+
+@media (min-width: 601px) and (max-width:900px) {
+    .MainSection {
+        padding: 100px 30px 50px 30px;
+    }
+
+    .Header {
+        align-items: center;
+        text-align: center;
+    }
+
+    .Heading {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection button {
+        width: 200px;
+        height: 45px;
+    }
+
+    .QuoteList {
+        gap: 25px;
+    }
+
+    .MainSection P1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection h3 {
+        font-size: 22px;
+    }
+
+    .MainSection span {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 9010px) and (max-width:1200px) {
+    .MainSection {
+        padding: 100px 50px 50px 50px;
+    }
+
+    .Header {
+        align-items: center;
+        text-align: center;
+    }
+
+    .Heading {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection button {
+        width: 220px;
+        height: 50px;
+    }
+
+    .QuoteList {
+        gap: 30px;
+    }
+
+    .MainSection P1 {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+
+    .MainSection h3 {
+        font-size: 24px;
+    }
+
+    .MainSection span {
+        font-size: 16px;
+    }
+}

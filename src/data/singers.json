@@ -1,0 +1,838 @@
+ [
+  {
+    "name": "Aditya Das",
+    "bio": "Aditya Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Sai Joshi",
+    "bio": "Sai Joshi is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer2.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Ishaan Nair",
+    "bio": "Ishaan Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+      "profileImage":"/Assets/Singers/singer4.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Nair",
+    "bio": "Aarav Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+     "profileImage":"/Assets/Singers/singer5.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Nair",
+    "bio": "Reyansh Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Singers/singer6.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ishaan Mishra",
+    "bio": "Ishaan Mishra is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+      "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer8.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Das",
+    "bio": "Aarav Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+      "profileImage":"/Assets/Singers/singer9.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "English",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+     "profileImage":"/Assets/Singers/singer10.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ayaan Reddy",
+    "bio": "Ayaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer12.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Reddy",
+    "bio": "Reyansh Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "English",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer13.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Das",
+    "bio": "Reyansh Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer14.jpg",
+    "location": "Bengaluru"
+  },
+ {
+    "name": "Aditya Das",
+    "bio": "Aditya Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Sai Joshi",
+    "bio": "Sai Joshi is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer2.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Ishaan Nair",
+    "bio": "Ishaan Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+      "profileImage":"/Assets/Singers/singer4.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Nair",
+    "bio": "Aarav Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+     "profileImage":"/Assets/Singers/singer5.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Nair",
+    "bio": "Reyansh Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Singers/singer6.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ishaan Mishra",
+    "bio": "Ishaan Mishra is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+      "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer8.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Das",
+    "bio": "Aarav Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+      "profileImage":"/Assets/Singers/singer9.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "English",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+     "profileImage":"/Assets/Singers/singer10.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ayaan Reddy",
+    "bio": "Ayaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer12.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Reddy",
+    "bio": "Reyansh Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "English",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer13.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Das",
+    "bio": "Reyansh Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer14.jpg",
+    "location": "Bengaluru"
+  },
+   {
+    "name": "Aditya Das",
+    "bio": "Aditya Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Sai Joshi",
+    "bio": "Sai Joshi is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer2.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Ishaan Nair",
+    "bio": "Ishaan Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+      "profileImage":"/Assets/Singers/singer4.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Nair",
+    "bio": "Aarav Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+     "profileImage":"/Assets/Singers/singer5.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Nair",
+    "bio": "Reyansh Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Singers/singer6.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ishaan Mishra",
+    "bio": "Ishaan Mishra is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+      "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer8.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Das",
+    "bio": "Aarav Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+      "profileImage":"/Assets/Singers/singer9.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "English",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+     "profileImage":"/Assets/Singers/singer10.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ayaan Reddy",
+    "bio": "Ayaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer12.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Reddy",
+    "bio": "Reyansh Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "English",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer13.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Das",
+    "bio": "Reyansh Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer14.jpg",
+    "location": "Bengaluru"
+  },
+   {
+    "name": "Aditya Das",
+    "bio": "Aditya Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Punjabi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Sai Joshi",
+    "bio": "Sai Joshi is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+    "profileImage":"/Assets/Singers/singer2.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Krishna Sharma",
+    "bio": "Krishna Sharma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Punjabi",
+      "Hindi",
+      "Telugu"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Ishaan Nair",
+    "bio": "Ishaan Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Marathi",
+      "Tamil",
+      "English"
+    ],
+    "feeRange": "\u20b950,000+",
+      "profileImage":"/Assets/Singers/singer4.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Nair",
+    "bio": "Aarav Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Telugu",
+      "Tamil",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+     "profileImage":"/Assets/Singers/singer5.jpg",
+    "location": "Delhi"
+  },
+  {
+    "name": "Reyansh Nair",
+    "bio": "Reyansh Nair is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "Tamil"
+    ],
+    "feeRange": "\u20b950,000+",
+    "profileImage":"/Assets/Singers/singer6.jpg",
+    "location": "Ahmedabad"
+  },
+  {
+    "name": "Ishaan Mishra",
+    "bio": "Ishaan Mishra is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Kannada",
+      "English",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+      "profileImage":"/Assets/Singers/singer7.jpg",
+    "location": "Pune"
+  },
+  {
+    "name": "Vivaan Reddy",
+    "bio": "Vivaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Tamil"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer8.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Aarav Das",
+    "bio": "Aarav Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Telugu"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+      "profileImage":"/Assets/Singers/singer9.jpg",
+    "location": "Hyderabad"
+  },
+  {
+    "name": "Aarav Verma",
+    "bio": "Aarav Verma is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Telugu",
+      "Marathi",
+      "English",
+      "Punjabi"
+    ],
+    "feeRange": "\u20b910,000 - \u20b925,000",
+     "profileImage":"/Assets/Singers/singer10.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Vihaan Reddy",
+    "bio": "Vihaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer1.jpg",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ayaan Reddy",
+    "bio": "Ayaan Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Marathi",
+      "Tamil",
+      "Kannada"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer12.jpg",
+    "location": "Chennai"
+  },
+  {
+    "name": "Reyansh Reddy",
+    "bio": "Reyansh Reddy is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Punjabi",
+      "English",
+      "Kannada"
+    ],
+    "feeRange": "\u20b95,000 - \u20b910,000",
+    "profileImage":"/Assets/Singers/singer13.jpg",
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Reyansh Das",
+    "bio": "Reyansh Das is a passionate and experienced singer with years of performances.",
+    "categories": [
+      "Singer"
+    ],
+    "languagesSpoken": [
+      "Tamil",
+      "Marathi"
+    ],
+    "feeRange": "\u20b925,000 - \u20b950,000",
+    "profileImage":"/Assets/Singers/singer14.jpg",
+    "location": "Bengaluru"
+  }
+]
