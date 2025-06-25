@@ -6,13 +6,14 @@ import { useEffect } from "react";
 import Singers from "@/data/singers.json";
 import Dancers from "@/data/dancers.json";
 import Djs from "@/data/djs.json";
-import Speakers from "@/data/speaker.json";
+import Speakers from "@/data/Speaker.json"; // ✅ FIX: correct casing
 import ArtistCard from "@/components/ArtistCard/ArtistCard";
 import Styles from "@/app/artists/page.module.css";
 
 export default function Page() {
   const searchParams = useSearchParams();
   const category = searchParams.get("category");
+
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "auto" });
   }, [category]);
@@ -35,6 +36,7 @@ export default function Page() {
         Browse and book verified artists, DJs, bands, and performers — fast,
         easy, and secure.
       </p>
+
       {artistData.length === 0 ? (
         <p className={Styles.NoArtists}>
           No artists found for category: <strong>{category}</strong>

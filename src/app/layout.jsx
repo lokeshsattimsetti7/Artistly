@@ -1,4 +1,4 @@
-// src/app/layout.jsx
+import { Suspense } from "react";
 import Navbar from "@/components/Navbar/Navbar";
 import styles from "@/app/layout.module.css";
 
@@ -24,13 +24,23 @@ export default function RootLayout({ children }) {
             padding: 0;
             box-sizing: border-box;
             border: none;
-                // background-color: #0F111B;
+            /* background-color: #0F111B; */
           }
         `}</style>
       </head>
       <body>
         <Navbar />
-        <main>{children}</main>
+        <main>
+          <Suspense
+            fallback={
+              <div style={{ padding: "2rem", textAlign: "center" }}>
+                Loading...
+              </div>
+            }
+          >
+            {children}
+          </Suspense>
+        </main>
       </body>
     </html>
   );
