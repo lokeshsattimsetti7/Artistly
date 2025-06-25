@@ -6,7 +6,8 @@ import { useEffect } from "react";
 import Singers from "@/data/singers.json";
 import Dancers from "@/data/dancers.json";
 import Djs from "@/data/djs.json";
-import Speakers from "@/data/Speaker.json"; // ✅ FIX: correct casing
+import Speakers from "@/data/Speaker.json"; // ✅ case-correct
+
 import ArtistCard from "@/components/ArtistCard/ArtistCard";
 import Styles from "@/app/artists/page.module.css";
 
