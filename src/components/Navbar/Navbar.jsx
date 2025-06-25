@@ -10,12 +10,6 @@ export default function Navbar() {
   return (
     <header className={styles.MainSection}>
       <div className={styles.SectionOne}>
-        <Image
-          src="/Assets/logo.png"
-          alt="Artistly logo"
-          width={50}
-          height={50}
-        />
         <h1 className={styles.LogoText}>ARTISTLY</h1>
       </div>
 
