@@ -70,14 +70,7 @@ This project is a frontend test assignment that demonstrates responsive design, 
 
 ---
 
-## 🧑‍💻 Developer Info
 
-**Srinivasa Vara Prasanna Lokesh Sattimsetti**  
-📧 lokeshsattimsetti@gmail.com  
-📱 +91 9652831236  
-🔗 GitHub: [lokeshsattimsetti7](https://github.com/lokeshsattimsetti7)
-
----
 
 ## 📁 Folder Structure (Simplified)
 
