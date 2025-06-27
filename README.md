@@ -1,40 +1,83 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎭 Artistly.com – Frontend Developer Test Assignment
 
-## Getting Started
+## 📌 Position: React + Next.js Frontend Developer  
+**Assignment Type:** Individual  
+**Duration:** ~10–12 hours over 2 days  
+**Deployment:** Hosted on [Vercel](https://vercel.com)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Artistly.com is a fictional **performing artist booking platform** for event planners and artist managers to connect.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project is a frontend test assignment that demonstrates responsive design, component reusability, form logic, filtering, and mock data handling using **React**, **Next.js**, and **vanilla CSS**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🔹 Pages Implemented
 
-To learn more about Next.js, take a look at the following resources:
+### 1. 🔥 Homepage
+- Hero section and platform overview
+- CTA to explore artists
+- Artist category cards (e.g., Singers, Dancers, DJs)
+- Navigation to Artist Listing and Onboarding pages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 2. 🧑‍🎤 Artist Listing Page
+- Grid of artist cards loaded from JSON
+- Filter by Category, Price Range, and Location
+- Responsive layout (switches to stacked view on mobile)
+- Reusable components: ArtistCard, FilterBlock
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3. 📝 Artist Onboarding Form
+- Multi-section form with validation
+  - Name, Bio, Category (multi-select)
+  - Languages spoken (checkbox)
+  - Fee range, Location
+- Form validation using **React Hook Form + Yup**
+- Submits data to mock console or state
 
-## Deploy on Vercel
+### 4. 📋 Manager Dashboard (Optional)
+- Displays list of artist submissions (local state)
+- Columns: Name, Category, Fee, Location
+- Conditional rendering and table mapping
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Artistly
->>>>>>> 8db58b15d5fb09cddccde3049b4f95bb7d598234
+## 🧱 Tech Stack
+
+- ✅ **Next.js v13+** (App Router)
+- ✅ **React Functional Components**
+- ✅ **Vanilla CSS** (no Tailwind used)
+- ✅ **React Hook Form + Yup** for form handling
+- ✅ **useState, useEffect, useContext** for state and effects
+
+---
+
+## 🧪 Features Demonstrated
+
+- ✅ Fully responsive design for mobile, tablet, desktop
+- ✅ Filtering logic with dynamic rendering
+- ✅ Form validation with custom UI
+- ✅ Clean folder structure and reusable components
+- ✅ Mock JSON for artist data and onboarding submissions
+
+---
+
+## 🌐 Live Demo
+
+[https://artistly-git-main-lokeshsattimsetti7s-projects.vercel.app](https://artistly-git-main-lokeshsattimsetti7s-projects.vercel.app)
+
+---
+
+## 🧑‍💻 Developer Info
+
+**Srinivasa Vara Prasanna Lokesh Sattimsetti**  
+📧 lokeshsattimsetti@gmail.com  
+📱 +91 9652831236  
+🔗 GitHub: [lokeshsattimsetti7](https://github.com/lokeshsattimsetti7)
+
+---
+
+## 📁 Folder Structure (Simplified)
+
